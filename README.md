@@ -4,9 +4,9 @@ I am <b>Sreejata</b>, a Software developer in the making, UI/UX designer by pass
 
 When I’m not debugging my way through the matrix or designing interfaces that don’t make users cry, you’ll find me:
 
-- 🎨 Whipping up artsy things – from digital designs to doodles
-- 💻 Building fun side projects no one asked for (but everyone needs)
-- 🧠 On a never-ending quest to level up my dev skills
+🎨 Whipping up artsy things – from designs to doodles
+💻 Building fun side projects no one asked for (but everyone needs)
+🧠 On a never-ending quest to level up my dev skills
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
